@@ -1,0 +1,51 @@
+p{
+  color: black;
+}
+
+h1{
+  width: 100%;
+}
+body {
+    /* Image Location */
+    background-image: url("https://img.freepik.com/free-vector/background-seamless-pattern-vector-with-cute-pastel-terrazzo_53876-105504.jpg?w=2000");
+
+    /* Background image is centered vertically and horizontally at all times */
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+    /* Font Colour */
+    color:white;
+}
+
+.img-left{
+  position: relative;
+  width: 300px;
+  height: 300px;
+}
+
+
+.greetings{
+  color: black;
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 26px;
+}
+
+.mymessage {
+    /* Image Location */
+    background-image: url("https://i.pinimg.com/474x/25/7b/f7/257bf739fcb9747ac11fdfd68f562618.jpg");
+
+    /* Background image is centered vertically and horizontally at all times */
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+    /* Font Colour */
+    color:white;
+}
+
+
+
+/* this is the style*/
