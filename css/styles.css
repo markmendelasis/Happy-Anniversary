@@ -24,7 +24,12 @@ body {
   width: 300px;
   height: 300px;
 }
-
+.img-right{
+  position: relative;
+  left:20vmin!important;
+  width: 200px;
+  height: 180px;
+}
 
 .greetings{
   color: black;
