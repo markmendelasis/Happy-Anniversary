@@ -25,10 +25,8 @@ body {
   height: 300px;
 }
 .img-right{
-  position: relative;
-  left:20vmin!important;
-  width: 200px;
-  height: 180px;
+
+  border-radius: 30%;
 }
 
 .greetings{
